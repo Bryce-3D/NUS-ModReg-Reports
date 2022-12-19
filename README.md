@@ -9,5 +9,7 @@ Sources:
 - [Reddit post](https://www.reddit.com/r/nus/comments/ko79fv/modreg_historical_vacancy_reports/) - AY19-20 Sem 2, AY20-21 Sem 1, AY20-21 Sem 2 Round 1 Vacancy Reports
 - [Wayback Machine](https://web.archive.org/web/20220000000000*/http://www.nus.edu.sg/modreg/docs/DemandAllocationRptUG.pdf) - Most UG Demand Allocation Reports from AY20-21 Sem 2, AY20-21 Sem 1
 - [Wayback Machine](https://web.archive.org/web/20220000000000*/http://www.nus.edu.sg/modreg/docs/DemandAllocationRptGD.pdf) - Most GD Demand Allocation Reports from AY20-21 Sem 2, AY20-21 Sem 1
-- [Wayback Machine](https://web.archive.org/web/20210901000000*/http://www.nus.edu.sg/ModReg/docs/VacancyRpt.pdf) - Most Vacancy Reports from AY19-20 Sem 2 to AY21-22 Sem 1
+- [Wayback Machine](https://web.archive.org/web/20210901000000*/http://www.nus.edu.sg/ModReg/docs/VacancyRpt.pdf) - Various Vacancy Reports from AY19-20 Sem 2 to AY21-22 Sem 1
 - [NUS's site](https://www.nus.edu.sg/ModReg/resources.html) - Everything from AY21-22 Sem 2 onwards (downloaded by myself)
+
+Some more might exists somewhere here in [Wayback Machine](https://web.archive.org/web/*/http://www.nus.edu.sg/modreg/docs/*)
