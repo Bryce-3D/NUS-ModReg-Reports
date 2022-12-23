@@ -12,4 +12,4 @@ Sources:
 - [Wayback Machine](https://web.archive.org/web/20210901000000*/http://www.nus.edu.sg/ModReg/docs/VacancyRpt.pdf) - Various Vacancy Reports from AY19-20 Sem 2 to AY21-22 Sem 1
 - [NUS's site](https://www.nus.edu.sg/ModReg/resources.html) - Everything from AY21-22 Sem 2 onwards (downloaded by myself)
 
-Some more might exists somewhere here in [Wayback Machine](https://web.archive.org/web/*/http://www.nus.edu.sg/modreg/docs/*)
+Some more might exist somewhere here in [Wayback Machine](https://web.archive.org/web/*/http://www.nus.edu.sg/modreg/docs/*)
