@@ -1,5 +1,5 @@
 # NUS-ModReg-Reports
-Repository to store NUS ModReg Vacancy Reports and Demand and Allocation reports for public access.
+Repository to store NUS ModReg Vacancy Reports and Demand and Allocation reports for public access, as well as the ModReg schedules.
 
 It is rather unfortunate that NUS doesn't store copies of the old reports.
 
